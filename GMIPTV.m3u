@@ -13,6 +13,14 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
 #EXTINF:-1 tvg-id="STVPlus1.uk" tvg-logo="https://i.imgur.com/XeSaypp.png" group-title="Entertainment",ITV+1
 https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" status="timeout" group-title="Entertainment",ITV2
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" status="blocked" group-title="Entertainment",ITV3 
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" status="blocked" group-title="Entertainment",ITV4
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
+#EXTINF:-1 tvg-id="ITVBe.uk" status="timeout" group-title="Entertainment",ITVBe
+https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Entertainment",Charge!
@@ -553,13 +561,3 @@ https://amg00627-banijaygroup-mcleods-uk-samsunguk-g7yoe.amagi.tv/playlist/amg00
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-GBAK3504500A" tvg-id="GBAK3504500A" tvg-chno="4210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20221012T015857SQUARE.png_20221012015858.png" group-title="Series",5 Cops
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d9f6e738977e2c3109db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="ITV2.uk" status="timeout",ITV2 
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" status="timeout",ITV2
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk" status="blocked",ITV3 
-https://cdnuk001.broadcastcdn.net/KUK-ITV3/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk" status="blocked",ITV4
-https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
-#EXTINF:-1 tvg-id="ITVBe.uk" status="timeout",ITVBe
-https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
